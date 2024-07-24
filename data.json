@@ -31,6 +31,15 @@
         "socialLinks": {}
       },
       {
+        "id": 3,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719309884/kovvur-icons/events.jpg",
+        "title": "Bhanu",
+        "location": "C",
+        "phoneNumber": "9392060678",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {}
+      },
+      {
         "id": 4,
         "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314719/kovvur-icons/photography.jpg",
         "title": "Jos Beauty Clinic Ac",
