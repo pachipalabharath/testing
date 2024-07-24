@@ -1,0 +1,53 @@
+{
+    "photographyData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719403975/kovvur-icons/workers.jpg",
+        "title": "Aarohi Advanced Beauty Clinic & Makeup Studio",
+        "location": "A",
+        "phoneNumber": "9392060676",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {
+          "instagram": "https://www.instagram.com/mana_kovvur_official/",
+          "whatsapp": "https://wa.me/9491344745"
+        }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719406952/kovvur-icons/travels.jpg",
+        "title": "Bharath kumar",
+        "location": "B",
+        "phoneNumber": "9491344745",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {}
+      },
+      {
+        "id": 3,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719309884/kovvur-icons/events.jpg",
+        "title": "Kumar",
+        "location": "C",
+        "phoneNumber": "9392060678",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {}
+      },
+      {
+        "id": 4,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314719/kovvur-icons/photography.jpg",
+        "title": "Jos Beauty Clinic Ac",
+        "location": "Dhanush",
+        "phoneNumber": "9392060679",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {}
+      },
+      {
+        "id": 5,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314720/kovvur-icons/beauty.jpg",
+        "title": "Sowji",
+        "location": "E",
+        "phoneNumber": "9392060680",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {}
+      }
+    ]
+  }
+  
